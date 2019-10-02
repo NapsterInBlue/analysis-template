@@ -1,0 +1,3 @@
+[global]
+trusted-host = pypi
+index-url = http://pypi

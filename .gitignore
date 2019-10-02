@@ -1,0 +1,13 @@
+# Built docs
+docs/_build
+
+# Virtual Environment
+env/
+
+# OSX Junk
+.DS_Store
+
+# test cache
+.cache/*
+tests/__pycache__/*
+*.pytest_cache/
